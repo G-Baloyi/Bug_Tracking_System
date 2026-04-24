@@ -22,7 +22,7 @@ A modern, feature-rich issue tracking system built with vanilla JavaScript, HTML
 - **Quick Actions**: Create new issues directly from dashboard
 - **Issue Overview**: Quick view of all issues by status
 
-### 🎯 Issue Management
+### Issue Management
 - **Create Issues**: Comprehensive form with all necessary fields
 - **Edit Issues**: Full CRUD operations with status updates
 - **Delete Issues**: With confirmation dialog
@@ -58,7 +58,7 @@ A modern, feature-rich issue tracking system built with vanilla JavaScript, HTML
 
 ## Live Demo
 
-[View Live Demo](https://your-demo-link.com)
+[View Live Demo](https://g-baloyi.github.io/Bug_Tracking_System/)
 
 **Demo Credentials:**
 - Username: `admin`
